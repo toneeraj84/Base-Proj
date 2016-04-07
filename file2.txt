@@ -1,4 +1,4 @@
 base file 2
 Branch 1 Added
 Branch 1 added after switch
-Branch 2 Added
+Brnach 3 changes
